@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/wentian804/Heroku-v2-ray",
-  "repository": "https://github.com/wentian804/Heroku-v2-ray",
+  "website": "https://github.com/tangzhdong/tzd",
+  "repository": "https://github.com/tangzhdong/tzd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
