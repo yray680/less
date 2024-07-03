@@ -7,12 +7,12 @@
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
-      "value": "",
+      "description": "UUID",
+      "value": "b267dc97-42f6-4933-86ba-ea108abf8176",
       "required": false
     },
     "WS_PATH": {
